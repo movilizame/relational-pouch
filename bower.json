@@ -1,8 +1,8 @@
 {
-  "name": "relational-pouch",
+  "name": "relational-pouch-movilizame",
   "version": "3.0.1",
   "description": "PouchDB, relational-style",
-  "homepage": "https://github.com/pouchdb-community/relational-pouch",
+  "homepage": "https://github.com/movilizame/relational-pouch",
   "authors": [
     "Nolan Lawson <nolan.lawson@gmail.com>"
   ],
