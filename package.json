@@ -1,11 +1,11 @@
 {
-  "name": "relational-pouch",
+  "name": "relational-pouch-movilizame",
   "version": "3.0.1",
   "description": "PouchDB, relational style",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pouchdb-community/relational-pouch.git"
+    "url": "git://github.com/movilizame/relational-pouch.git"
   },
   "keywords": [
     "pouch",
